@@ -1,0 +1,20 @@
+export const LOGIN = 'LOGIN';
+export const IS_USER_LOGGEDIN = 'IS_USER_LOGGEDIN';
+export const REGISTER = 'REGISTER';
+export const SIGNOUT = 'SIGNOUT';
+
+//current tracking time entry item
+export const TIME_ENTRY_INPUT__PULL = 'TIME_ENTRY_INPUT__PULL';
+export const TIME_ENTRY_INPUT__START = 'TIME_ENTRY_INPUT__START';
+export const TIME_ENTRY_INPUT__STOP = 'TIME_ENTRY_INPUT__STOP';
+export const TIME_ENTRY_INPUT__CHANGE_START_TIME =
+  'TIME_ENTRY_INPUT__CHANGE_START_TIME';
+export const TIME_ENTRY_INPUT__CHANGE_TEXT = 'TIME_ENTRY_INPUT__CHANGE_TEXT';
+export const TIME_ENTRY_INPUT__REMOVE = 'TIME_ENTRY_INPUT__REMOVE';
+
+//time entries
+export const TIME_ENTRIES_FETCH_LIST = 'TIME_ENTRIES_FETCH_LIST';
+export const TIME_ENTRIES_REMOVE = 'TIME_ENTRIES_REMOVE';
+
+//report
+export const REPORT_FETCH = 'REPORT_FETCH';
