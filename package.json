@@ -9,7 +9,7 @@
     "formsy-material-ui": "^0.6.3",
     "formsy-react": "^1.1.5",
     "history": "3.2.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "material-ui": "^0.20.2",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.3.2",
